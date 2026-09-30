@@ -7,6 +7,7 @@ All class notebooks, ready to open in Google Colab.
 | Session 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS1_Colab.ipynb) |
 | Session 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS2_Colab.ipynb) |
 | Session 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS3_Colab.ipynb) |
+| Session 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS4_Colab.ipynb) |
 | Chapter 1 — Weeks 1–2 practice (50 questions) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_Chapter1_Weeks1_2_Practice.ipynb) |
 
 ## For students
