@@ -8,6 +8,8 @@ All class notebooks, ready to open in Google Colab.
 | Session 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS2_Colab.ipynb) |
 | Session 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS3_Colab.ipynb) |
 | Session 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS4_Colab.ipynb) |
+| Session 5 — Functions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS5_Colab.ipynb) |
+| SS4 and SS5 — 15 exercises, solutions and trace tables | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS4_SS5_Exercises_Colab.ipynb) |
 | Chapter 1 — Weeks 1–2 practice (50 questions) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_Chapter1_Weeks1_2_Practice.ipynb) |
 
 ## For students
