@@ -11,6 +11,8 @@ All class notebooks, ready to open in Google Colab.
 | Session 5 — Functions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS5_Colab.ipynb) |
 | Session 5B — Recursion, Lambda, *args & **kwargs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS5B_Colab.ipynb) |
 | Session 6 — Data Types | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS6_Colab.ipynb) |
+| Session 7 — Lists | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS7_Colab.ipynb) |
+| Session 8 — Tuples | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS8_Colab.ipynb) |
 | SS4 and SS5 — 20 exercises, solutions and trace tables | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_SS4_SS5_Exercises_Colab.ipynb) |
 | Chapter 1 — Weeks 1–2 practice (50 questions) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayeps2000/COSC114-Session-1-Colab/blob/main/COSC114_Chapter1_Weeks1_2_Practice.ipynb) |
 
